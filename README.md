@@ -1,8 +1,11 @@
+
+
+<!---!
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav chhetri
 ======================================================================================================================================
 
-
-![](https://komarev.com/ghpvc/?username=muffinboy19)
+[](https://komarev.com/ghpvc/?username=muffinboy19)
 
 App Developer , Coder ....
 --------------------------
@@ -10,7 +13,8 @@ App Developer , Coder ....
 * 🌍  I'm based in prayagraj
 * ✉️  You can contact me at [gauravchhetri6363@gmail.com](mailto:gauravchhetri6363@gmail.com)
 * 🧠  I'm learning react native , flutter and other technologies ...
-* 🤝  I'm open to collaborating on any type of project just ping me
+* 🤝  I'm open to collaborating on any type of project just ping me 
+-->
 
 ### Skills
 
